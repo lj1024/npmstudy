@@ -1,0 +1,24 @@
+{
+  "name": "nmpstudy",
+  "version": "1.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "luwja",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lj1024/npmstudy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lj1024/npmstudy/issues"
+  },
+  "homepage": "https://github.com/lj1024/npmstudy#readme"
+}
